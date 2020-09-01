@@ -13,9 +13,10 @@ namespace TestLibrary1
       string sTest = "Write something";
       if (string.IsNullOrEmpty(sTest))
       {
-        // Schvalne chyba
-        int i = "a";
+        
       }
+      // Schvalne chyba
+      int i = "a";
     }
   }
 }
