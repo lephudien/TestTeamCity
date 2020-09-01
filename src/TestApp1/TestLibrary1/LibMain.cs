@@ -10,6 +10,11 @@ namespace TestLibrary1
   {
     public void DoSomeThing()
     {
+      string sTest = "Write something";
+      if (string.IsNullOrEmpty(sTest))
+      {
+        
+      }
     }
   }
 }
