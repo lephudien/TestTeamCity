@@ -20,6 +20,7 @@ namespace TestLibrary1
       int i = 0;
       i += 1;
       i += 1;
+      i += 1;
     }
   }
 }
