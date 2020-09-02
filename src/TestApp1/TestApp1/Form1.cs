@@ -21,6 +21,7 @@ namespace TestApp1
     {
       TestLibrary1.LibMain libMain = new TestLibrary1.LibMain();
       libMain.DoSomeThing();
+      int i = "a";
     }
   }
 }
