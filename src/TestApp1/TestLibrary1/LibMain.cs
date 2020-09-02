@@ -17,6 +17,7 @@ namespace TestLibrary1
       }
       // Schvalne chyba
       // int i = "a";
+      int i = 0;
       i += 1;
     }
   }
