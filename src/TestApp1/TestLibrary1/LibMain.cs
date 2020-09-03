@@ -23,6 +23,8 @@ namespace TestLibrary1
       i += 3;
       i += 4;
       i += 5;
+      i += 6;
+      i += 7;
     }
   }
 }
